@@ -2,13 +2,12 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
-    // Perbaikan: Pakai titik (.)
     alias(libs.plugins.google.services)
 }
 
 android {
-    namespace = "com.example.pertemuan13" // Sesuaikan dengan nama packagemu
-    compileSdk = 35 // Atau 34, sesuaikan default Android Studio
+    namespace = "com.example.pertemuan13"
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.pertemuan13"
@@ -50,19 +49,11 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
-
-    // --- DEPENDENCIES BARU ---
-    // Navigasi
     implementation(libs.androidx.navigation.compose)
-
-    // Firebase (BOM mengatur versi otomatis)
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.firestore)
     implementation(libs.firebase.analytics)
-
-    // Coroutines Play Services (Agar bisa pakai .await() di Firebase)
     implementation(libs.coroutines.play.services)
-
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
