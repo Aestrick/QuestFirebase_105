@@ -1,5 +1,5 @@
 [versions]
-agp = "8.8.0" # Sesuaikan jika Android Studiomu beda versi
+agp = "8.8.0"
 kotlin = "2.0.0"
 coreKtx = "1.15.0"
 junit = "4.13.2"
@@ -29,7 +29,6 @@ androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-man
 androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
 
-# Library Firebase & Navigasi
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navCompose" }
 firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" }
 firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore" }
@@ -40,5 +39,4 @@ coroutines-play-services = { group = "org.jetbrains.kotlinx", name = "kotlinx-co
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
-# Saya ubah namanya jadi lebih simpel biar ga error di Kotlin
 google-services = { id = "com.google.gms.google-services", version.ref = "googleServices" }
