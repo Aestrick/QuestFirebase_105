@@ -17,14 +17,13 @@ class NetworkRepositorySiswa(
     private val firestore: FirebaseFirestore
 ) : RepositorySiswa {
 
-    // Ambil semua data siswa (Read)
     override suspend fun getAllSiswa(): List<Siswa> {
         return try {
             firestore.collection("Siswa")
-                .orderBy("nama", Query.Direction.ASCENDING) // Urutkan berdasarkan nama
+                .orderBy("nama", Query.Direction.ASCENDING)
                 .get()
                 .await()
-                .toObjects(Siswa::class.java) // Otomatis mapping dari JSON Firestore ke object Siswa
+                .toObjects(Siswa::class.java)
         } catch (e: Exception) {
             emptyList()
         }
