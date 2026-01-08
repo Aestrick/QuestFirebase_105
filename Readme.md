@@ -15,7 +15,7 @@ Berikut adalah tampilan antarmuka aplikasi:
 
 | **3. Detail Siswa** | **4. Edit Data** |
 |:---:|:---:|
-| <img width="561" height="967" alt="Screenshot 2026-01-02 155421" src="https://github.com/user-attachments/assets/23edd739-6faa-4190-9d33-010d5bbc64ab" /> | <img width="556" height="971" alt="Screenshot 2026-01-02 155534" src="https://github.com/user-attachments/assets/877b1d1d-ca80-450a-bf23-34bb74d9a5b8" /> |
+| <img width="1913" height="1072" alt="Screenshot 2026-01-08 175054" src="https://github.com/user-attachments/assets/6894b86d-77a6-4ac0-b46b-43bab6c0d242" /> | <img width="556" height="971" alt="Screenshot 2026-01-02 155534" src="https://github.com/user-attachments/assets/877b1d1d-ca80-450a-bf23-34bb74d9a5b8" /> |
 | *Menampilkan detail lengkap siswa* | *Form update data siswa* |
 
 *(Catatan: File gambar disimpan dalam folder `screenshots` di root project)*
