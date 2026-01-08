@@ -67,4 +67,4 @@ Berikut adalah tampilan antarmuka aplikasi:
 * **Nama:** Nashrul Fikri
 * **NIM:** 20230140105
 * **Kelas:** C
-* **Mata Kuliah:** Pengembangan Aplikasi Mobile (Activity 11 - Firebase)
+* **Mata Kuliah:** Pengembangan Aplikasi Mobile (Activity 11 dan Activity 12 - Firebase)
