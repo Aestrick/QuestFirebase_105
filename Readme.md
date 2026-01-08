@@ -18,8 +18,6 @@ Berikut adalah tampilan antarmuka aplikasi:
 | <img width="1913" height="1072" alt="Screenshot 2026-01-08 175054" src="https://github.com/user-attachments/assets/6894b86d-77a6-4ac0-b46b-43bab6c0d242" /> | <img width="1919" height="1079" alt="Screenshot 2026-01-08 175200" src="https://github.com/user-attachments/assets/08ebd5e3-5d0f-444e-aa6c-dfbd8cbc17ea" /> |
 | *Menampilkan detail lengkap siswa* | *Form update data siswa* |
 
-*(Catatan: File gambar disimpan dalam folder `screenshots` di root project)*
-
 ---
 
 ## 🚀 Fitur Utama
