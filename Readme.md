@@ -68,4 +68,4 @@ Berikut adalah tampilan antarmuka aplikasi:
 * **NIM:** 20230140105
 * **Kelas:** C
 * **Mata Kuliah:** Pengembangan Aplikasi Mobile (Activity 11 - Firebase)
-* NASGOR GORENG
+* OPTIMIST
