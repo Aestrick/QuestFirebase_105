@@ -10,7 +10,7 @@ Berikut adalah tampilan antarmuka aplikasi:
 
 | **1. Halaman Utama (Home)** | **2. Tambah Data (Entry)** |
 |:---:|:---:|
-| <img width="552" height="964" alt="Screenshot 2026-01-02 155306" src="https://github.com/user-attachments/assets/eb548559-2a01-4e59-bb3d-c871bd89f1c1" /> | <img width="553" height="960" alt="Screenshot 2026-01-02 155358" src="https://github.com/user-attachments/assets/eece5225-eb80-4402-8f85-d3ae3e09320c" /> |
+| <img width="1919" height="1079" alt="Screenshot 2026-01-08 174954" src="https://github.com/user-attachments/assets/f4a80b95-9844-4d79-a8df-e5ba52ee9b18" /> | <img width="553" height="960" alt="Screenshot 2026-01-02 155358" src="https://github.com/user-attachments/assets/eece5225-eb80-4402-8f85-d3ae3e09320c" /> |
 | *Menampilkan daftar siswa dari Firestore* | *Form input data siswa baru* |
 
 | **3. Detail Siswa** | **4. Edit Data** |
